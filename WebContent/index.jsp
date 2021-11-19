@@ -10,5 +10,10 @@
 <h1>git 테스트 프로젝트</h1>
 <hr>
 <p>추가된 내용</p>
+<ul>
+	<li>index0</li>
+	<li>index1</li>
+	<li>for_github Test create</li>
+</ul>
 </body>
 </html>
