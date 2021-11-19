@@ -8,5 +8,8 @@
 </head>
 <body>
 	<h1>테스트파일</h1>
+	<hr>
+	<p>내용추가 </p>
+	<div>next value</div>
 </body>
 </html>
